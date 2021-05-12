@@ -1,5 +1,5 @@
-h = input('請輸入身高')
-w = input('請輸入體重')
+h = input('請輸入身高:')
+w = input('請輸入體重:')
 print(h, type(h))
 print(w, type(w))
 h = float(h)  # 將str轉成floot
