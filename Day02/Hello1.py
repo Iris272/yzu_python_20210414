@@ -42,5 +42,5 @@ print(isPass, type(isPass))
 money = 1000000
 print(money)
 del money
-print(money)
+print('money')
 
